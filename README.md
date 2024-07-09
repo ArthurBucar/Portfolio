@@ -1,7 +1,6 @@
 # Portfolio
 Last projects that I participated.
 
-## Description
 # [GoFundMe](https://play.google.com/store/apps/details?id=com.GoFundMe.GoFundMe&hl=en)
 GoFundMe App Android
 
@@ -25,7 +24,6 @@ Tech Used
 - 📊 Implementation of new features and problem solving to improve performance and stability
 
 
-## Description
 # [Erakulis](https://play.google.com/store/apps/details?id=com.erakulis)
 Erakulis App Android
 
@@ -50,7 +48,6 @@ Tech Used
 - 📊 Implementation of new features and problem solving to improve performance and stability
 
 
-## Description
 # [One-Care Santander](https://play.google.com/store/apps/details?id=pt.santander.oneappparticulares&hl=pt_PT)
 One-Care Santander App Android
 
@@ -74,7 +71,6 @@ Tech Used
 - 💬 Created from scratch, the OneCare app.
 - 📊 Implementation of new features and problem solving to improve performance and stability
 
-- ## Description
 # My Library
 My Library App Android
 
