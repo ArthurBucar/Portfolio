@@ -20,6 +20,11 @@ Tech Used
 - Junit, Mockito, Espresso UI testing.
 
 
+**My Contributions**
+- 💬 Refactoring in the legacy code from Java to Kotlin and change MVP to MVVM.
+- 📊 Implementation of new features and problem solving to improve performance and stability
+
+
 ## Description
 # [Erakulis](https://play.google.com/store/apps/details?id=com.erakulis)
 Erakulis App Android
@@ -38,6 +43,11 @@ Tech Used
 - Junit, Mockito, Espresso UI testing.
 - Deeplink
 - LiveData
+  
+
+**My Contributions**
+- 💬 Created from scratch, the Erakulis app has many screens and various types of services running in the background and in realtime
+- 📊 Implementation of new features and problem solving to improve performance and stability
 
 
 ## Description
@@ -59,6 +69,11 @@ Tech Used
 - Junit, Mockito.
 - LiveData
 
+
+**My Contributions**
+- 💬 Created from scratch, the OneCare app.
+- 📊 Implementation of new features and problem solving to improve performance and stability
+
 - ## Description
 # My Library
 My Library App Android
@@ -76,3 +91,8 @@ Tech Used
 - Hilt
 - Junit
 - LiveData
+
+
+**My Contributions**
+- 💬 Created from scratch, My Library. in this app we list alot of books and we can save, and we also have a few statistics.
+- 📊 Implementation of new features and problem solving to improve performance and stability
